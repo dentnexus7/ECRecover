@@ -1,4 +1,4 @@
-pragma solidity ^0.4.24;
+pragma solidity 0.4.24;
 
 /**
  * Based upon ECDSA library from OpenZeppelin Solidity
